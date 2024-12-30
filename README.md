@@ -12,4 +12,4 @@
 
 
 Deployment Link:-
-https://sudhip-pizza-restaurant.netlify.app/
+https://sudhip-instgram-clone.netlify.app/
